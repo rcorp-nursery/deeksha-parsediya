@@ -1,0 +1,17 @@
+{
+  "name": "deeksha-parsediya",
+  "homepage": "https://github.com/rcorp-nursery/deeksha-parsediya",
+  "authors": [
+    "neerajsachan <neerajsachan.biet@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
