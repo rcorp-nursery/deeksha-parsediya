@@ -18,5 +18,9 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/rcorp-nursery/deeksha-parsediya/issues"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^2.53.1",
+    "webdriverio": "^4.0.5"
   }
 }
